@@ -1,4 +1,3 @@
 # meujava
-alterando de forma local
+quero trocar isso tudo e fazer um comiti foda
 tudo alterado
-agora vai plmrdds
